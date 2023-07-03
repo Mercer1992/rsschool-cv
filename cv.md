@@ -6,5 +6,11 @@
 ---
 #Summary
 My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
+
+---
+
+# Skills
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 ---
 
