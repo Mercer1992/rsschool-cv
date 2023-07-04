@@ -18,7 +18,7 @@ My core strengths are in problem solving and fast learning.I want to get knowled
 
 function{color:blue} findLongestWord(text) {
     let words = text.split(" ");
-    let word = "";
+    let word = "" S;
     // for (let i = 0; i < words.length; i++) {
     //     if (word.length < words[i].length) {
     //         word = words[i];
