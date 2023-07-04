@@ -4,7 +4,7 @@
 * E-mail: iwmbts92@gmail.com
 * github: [Mercer1992](https://github.com/Mercer1992)
 ---
-#Summary
+# Summary
 My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
 
 ---
@@ -14,11 +14,11 @@ My core strengths are in problem solving and fast learning.I want to get knowled
 * CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 ---
 
-#Code examples
+# Code examples
 
 function{color:blue} findLongestWord(text) {
     let words = text.split(" ");
-    let word = "";
+    let word = "" S;
     // for (let i = 0; i < words.length; i++) {
     //     if (word.length < words[i].length) {
     //         word = words[i];
@@ -39,16 +39,16 @@ erat orci et libero. ");
 console.log(longestWord);
 
 ---
-#Education
+# Education
 Barsu University
 
 ---
-#Experience
+# Experience
 RSschool stage 1 (50%) :D
 
 ---
 
-#Languages
+# Languages
 
 * RUS
 * BEL
