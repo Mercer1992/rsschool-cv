@@ -31,10 +31,10 @@ function{color:blue} findLongestWord(text) {
     }
     return (word);
 }
-const longestWord = findLongestWord("Lorem ipsum dolor sit 
-amet, consectetur adipiscing elit. Praesent 
-rutrum, quam sit amet semper tempus, velit 
-nibh pellentesque dui, nec consectetur 
+const longestWord = findLongestWord("Lorem ipsum dolor sit
+amet, consectetur adipiscing elit. Praesent
+rutrum, quam sit amet semper tempus, velit
+nibh pellentesque dui, nec consectetur
 erat orci et libero. ");
 console.log(longestWord);
 
@@ -47,10 +47,8 @@ Barsu University
 RSschool stage 1 (50%) :D
 
 ---
-
 # Languages
 
 * RUS
 * BEL
 * ENG (A1)
-
