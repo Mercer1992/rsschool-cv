@@ -402,9 +402,10 @@ table {
 
 .main-section {
     position: relative;
-    min-height: 800px;
+    min-height: 550px;
     background: #dec809;
     padding-top: 16px;
+    overflow: hidden;
   
   }
 
@@ -499,17 +500,17 @@ table {
 
 
 .second-section {
-  background-color: #df643f;
+  background-color: #defe47;
   overflow: hidden;
   min-height: 700px;
   }
   
 .second-section__container {
    
-    padding-top: 32px;
+    padding-top: 15px;
     position: relative;
   }
   
 .second-section__title {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
